@@ -21,7 +21,6 @@ This project demonstrates a reinforcement learning environment using the **Q-Lea
 ## 📸 Interface Screenshot
 
 ![Q-Learning Grid Screenshot](assets/image.png)
-git push -u origin main
 
 ---
 
