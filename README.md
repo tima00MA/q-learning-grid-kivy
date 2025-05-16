@@ -110,14 +110,13 @@ python main.py
 
 ---
 
-## 🧑‍💻 Author
+## Contact
 
- **Fatima**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tima00MA)
 
-Feel free to contribute, fork, or star ⭐ the repo!
-
----
 
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+Feel free to contribute, fork, or star ⭐ the repo!
