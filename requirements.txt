@@ -1,0 +1,5 @@
+numpy
+kivy
+kivy-garden
+kivy-garden.graph
+pillow  # Pour la gestion des images
